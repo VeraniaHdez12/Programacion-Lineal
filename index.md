@@ -15,6 +15,10 @@ Aprendimos a usar la biblioteca Sympy.
 - [Enlace Github](https://github.com/VeraniaHdez12/Programacion-Lineal)
 
 ## Problemas
-Maximizar $$x^2+ax+c$$
+Maximizar
 
-Sujeto a $$x_1>=0$$
+$$x^2+ax+c$$
+
+Sujeto a
+
+$$x_1 \geq 0$$
