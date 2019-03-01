@@ -5,6 +5,8 @@ En está página voy a mostrar muchas de las cosas que estoy aprendiendo en mi c
 
 ![Región factible](métodosimplex.jpg)
 
+![Aplicaciones](aplicaciones.jpg)
+
 ## Sympy
 
 Aprendimos a usar la biblioteca Sympy.
