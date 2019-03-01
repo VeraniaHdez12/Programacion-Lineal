@@ -15,4 +15,4 @@ Aprendimos a usar la biblioteca Sympy.
 - [Enlace Github](https://github.com/VeraniaHdez12/Programacion-Lineal)
 
 ##Problemas
-Maximixar \(z=x_1+x_2\)
+Maximixar \(z=x_1+x_2\) sujeto a \(x_1\geq 0\)
