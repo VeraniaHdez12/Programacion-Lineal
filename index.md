@@ -15,5 +15,4 @@ Aprendimos a usar la biblioteca Sympy.
 - [Enlace Github](https://github.com/VeraniaHdez12/Programacion-Lineal)
 
 ## Problemas
-$x^2+ax+c$
-\(x^2+ax+c\)
+$$x^2+ax+c$$
