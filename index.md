@@ -17,7 +17,7 @@ Aprendimos a usar la biblioteca Sympy.
 ## Problemas
 Maximizar
 
-$$x^2+ax+c$$
+$$z=x_1+x_2$
 
 Sujeto a
 
