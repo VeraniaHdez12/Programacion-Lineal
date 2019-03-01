@@ -8,6 +8,6 @@ Aprendimos a usar la biblioteca Sympy.
 
 ## Enlaces
 
-- [Enlace python:](https://blog.python.org/)
-- [Enlace Google:](https://www.google.com/)
-- [Enlace Github:](https://github.com/VeraniaHdez12/Programacion-Lineal)
+- [Enlace python](https://blog.python.org/)
+- [Enlace Google](https://www.google.com/)
+- [Enlace Github](https://github.com/VeraniaHdez12/Programacion-Lineal)
