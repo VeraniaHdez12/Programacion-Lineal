@@ -1,4 +1,4 @@
-<script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
 ## PÁGINA DE PROGRAMACIÓN LINEAL
 En está página voy a mostrar muchas de las cosas que estoy aprendiendo en mi curso de Programación Lineal en la LIMA. 
@@ -15,4 +15,5 @@ Aprendimos a usar la biblioteca Sympy.
 - [Enlace Github](https://github.com/VeraniaHdez12/Programacion-Lineal)
 
 ## Problemas
-Maximixar \(z=x_1+x_2\) sujeto a \(x_1\geq 0\)
+$x^2+ax+c$
+\(x^2+ax+c\)
