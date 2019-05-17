@@ -31,3 +31,7 @@ Consideremos el siguiente problema
   - Y el siguiente
 
 * Teoremas 
+
+  Demostraremos que el mínimo del problema dual es igual al maximo del
+  problema primitivo.
+
